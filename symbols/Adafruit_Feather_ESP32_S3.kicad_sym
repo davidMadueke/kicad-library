@@ -24,7 +24,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Module:Adafruit_Feather"
+		(property "Footprint" "Adafruit_Feather_ESP32_S3_with_headers:Adafruit_Feather_ESP32_S3_WithMountingHoles"
 			(at 2.54 -34.29 0)
 			(effects
 				(font
