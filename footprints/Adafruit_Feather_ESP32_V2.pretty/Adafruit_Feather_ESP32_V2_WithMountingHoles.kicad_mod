@@ -678,7 +678,7 @@
 			(xyz -0 -0 -0)
 		)
 	)
-	(model "${KIPRJMOD}/library/3d_models/Adafruit_CAD_Parts/5400 ESP32 Feather V2/5400_ESP32_Feather_V2.step"
+	(model "${KIPRJMOD}/library/3d_models/Adafruit_CAD_Parts/5400 ESP32 Feather V2/5400 ESP32 Feather V2.step"
 		(offset
 			(xyz -1.2 6.5 8)
 		)
